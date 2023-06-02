@@ -1,0 +1,1 @@
+This is the repository for the code of my Guided Research project about 3D Visual Question Answering at the research lab of Prof. Dr. Niessner at Technical University of Munich. Currenly awaiting the review period before publishing the code and results.
